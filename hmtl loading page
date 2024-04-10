@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JiJo Life Watch</title>
+</head>
+  
+<body>
+  <div>
+    <img src="Logo (Main).png" alt="JiJo Logo" class="center"/>
+  </div> 
+</body> 
