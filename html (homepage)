@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JiJo: Life Watch</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  
+<body>
+  <div class="v">
+    <div class="menu">
+      <a href="#"><img src="menu-burger.png" height="auto" width="50px"/></a>
+      </div>
+    <div class="logo">
+    <img src="3.png" height="auto" width="50px"/>
+      </div>
+    <div class="pficon">
+    <a href="#"><img src="pfpicon.png" height="auto" width="50px"/></a>
+      </div>
+  </div>
+  
+  <!--.............home..................-->
+  <div class="home"> 
+  
+    <h1> <span style="color: white"> Lessen </span><span style="color: #32C632">Drowning,</span><br>
+    <span style="color: white"> and start saving</span>
+    <span style="color: #32C632">Lives.</span></h1>
+
+    
+    <h3><span style="color: white">Welcome user!<br>
+      
+    This app is for any age. It is an application designed to be your everyday companion,  and a watch can be worn daily.<br>
+      
+    As you can see,  drowning continues to be a significant cause of preventable deaths, it is one of the common deaths worldwide. JiJo is here to save you.<button>Sign in</button></span></h3><br>
+  
+    
+    <img src="watchh.png" alt="JiJo Logo" height="100%" width="auto"/>
+    
+  </div>
+  <!--About Page-->
+<div class="verticalline"></div>
+  <div class="about">
+      <div class="use">
+
+    <h4>How to use?</h4>
+    <h5><strong>Step By Step:</strong></h5>
+
+    <h4>1: Open app, and fill out your profile.
+    Located at top right. It is important to fill our your personal information so that when the alert triggers, rescuers will be able to identify you.<br>
+    2: Set your
+    time duration.
+    Located at
+    bottom left. Setting your breathing limit is required. Once the watch detects that you are in contact to water, it will automatically starts to countdown. The alert triggers before your limit.<br>
+    3: Alert notice
+    when a nearby
+    is drowning. Simply click their mark,
+    it will show you the user’s data.
+    You will be able to contact
+    their friends or realatives.</h4><br>
+  </div>
+  </div>
+  <div class="work">
+    <h4>How does it work?</h4>
+    <h4>The watch is attached with
+    a mini Arduino chip inside, making it able to sense
+    when interacting with water. It is placed underneath, with alert light. <br>
+
+    The alert light, when on screen displayed, the brightness is automated to 100%, making it to have a bright light to murky waters or at night. The alert system is only triggered just before the user’s breathing limit. <br>
+
+    It also includes GPS Tracker and sending coordinates to nearby users or rescuers. <br>
+
+    Your location or coordinates is always on private. It will automatically go oon public and shared to nearby users and rescuers.</h4><br>
+        </div>
+
+    <div class="features"> 
+      <h4>Features:</h4>
+      <ul>
+        <li>Waterproof</li>
+        <li>GPS Tracker</li>
+        <li>Alert Light</li>
+        <li>Privacy Policy</li>
+        <li>Sending Current Location/Coordinates</li>
+      </ul>
+    </div>
+    <div>
+
+    </div>
+
+  </body>
+
+  </html>
